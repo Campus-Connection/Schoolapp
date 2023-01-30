@@ -1,0 +1,34 @@
+[
+    {
+        "class_id": "1",
+        "class_name": "Introduction to Computer Science",
+        "instructor": "John Smith",
+        "description": "This class will cover the basics of computer science, including programming concepts and algorithms.",
+        "students": [
+            "Jane Doe",
+            "John Doe",
+            "Bob Smith"
+        ]
+    },
+    {
+        "class_id": "2",
+        "class_name": "Calculus I",
+        "instructor": "Jane Smith",
+        "description": "This class will cover the basics of Calculus, including limits, derivatives, and integrals.",
+        "students": [
+            "John Doe",
+            "Bob Smith"
+        ]
+    },
+    {
+        "class_id": "3",
+        "class_name": "Introduction to Psychology",
+        "instructor": "Bob Johnson",
+        "description": "This class will cover the basics of psychology, including the history of psychology, research methods, and major theories.",
+        "students": [
+            "Jane Doe",
+            "John Doe",
+            "Bob Smith"
+        ]
+    }
+]
