@@ -32,6 +32,10 @@ main h1 {
     text-align: center;
     color: #333333;
 }
+main p {
+    text-align: center;
+    color: #333333;
+}
 footer {
     background-color: #7AA2C5;
     color: white;
