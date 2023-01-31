@@ -1,5 +1,6 @@
 [
     {
+        "Institution": "Purdue University",
         "class_id": "CS 10100",
         "class_name": "Digital Literacy",
         "instructor": "George B. Adams, III",
@@ -11,6 +12,7 @@
         ]
     },
     {
+        "Institution": "Purdue University",
         "class_id": "CS 15900",
         "class_name": "C Programming",
         "instructor": "Xiaojin Liu",
@@ -21,6 +23,7 @@
         ]
     },
     {
+        "Institution": "Purdue University",
         "class_id": "CS 17600",
         "class_name": "Data Engineering In Python",
         "instructor": "Tony Bergstorm",
@@ -32,6 +35,7 @@
         ]
     },
     {
+        "Institution": "Purdue University",
         "class_id": "CS 17700",
         "class_name": "Programming With Multimedia Objects",
         "instructor": "Andres Bejarano",
@@ -43,6 +47,7 @@
         ]
     },
     {
+        "Institution": "Purdue University",
         "class_id": "CS 18000",
         "class_name": "Problem Solving And Object-Oriented Programming",
         "instructor": "Tony Bergstorm",
@@ -54,6 +59,7 @@
         ]
     },
     {
+        "Institution": "Purdue University",
         "class_id": "CS 18200",
         "class_name": "Foundations Of Computer Science",
         "instructor": "Sarah H Selke",
@@ -65,6 +71,7 @@
         ]
     },
     {
+        "Institution": "Purdue University",
         "class_id": "CS 19300",
         "class_name": "Tools",
         "instructor": "Pooja S. Mathi",
@@ -77,6 +84,7 @@
     }
     ,
     {
+        "Institution": "Purdue University",
         "class_id": "CS 19700",
         "class_name": "Freshman Honors Seminar",
         "instructor": "Douglas E. Comer",
@@ -88,6 +96,7 @@
         ]
     },
     {
+        "Institution": "Purdue University",
         "class_id": "CS 19700",
         "class_name": "Freshman Honors Seminar",
         "instructor": "Douglas E. Comer",
@@ -99,6 +108,7 @@
         ]
     },
     {
+        "Institution": "Purdue University",
         "class_id": "CS 23500",
         "class_name": "Introduction To Organizational Computing",
         "instructor": "Marta A. Crowe",
@@ -110,6 +120,7 @@
         ]
     },
     {
+        "Institution": "Purdue University",
         "class_id": "CS 24000",
         "class_name": "Programming In C",
         "instructor": "Jeffrey A. Turkstra",
@@ -121,6 +132,7 @@
         ]
     },
     {
+        "Institution": "Purdue University",
         "class_id": "CS 25000",
         "class_name": "Computer Architecture",
         "instructor": "George B. Adams, III",
@@ -132,6 +144,7 @@
         ]
     },
     {
+        "Institution": "Purdue University",
         "class_id": "CS 25100",
         "class_name": "Data Structures And Algorithms",
         "instructor": "Susanne E. Hambrusch",
@@ -143,6 +156,7 @@
         ]
     },
     {
+        "Institution": "Purdue University",
         "class_id": "CS 25200",
         "class_name": "Systems Programming",
         "instructor": "Gustave Adolfo Junipero Rodriguez-rivera",
@@ -154,6 +168,7 @@
         ]
     },
     {
+        "Institution": "Purdue University",
         "class_id": "CS 25200",
         "class_name": "Systems Programming",
         "instructor": "Gustave Adolfo Junipero Rodriguez-rivera",
