@@ -2,19 +2,22 @@
 <html>
   <head>
     <link rel="stylesheet" type="text/css" href="Messages.css">
-    <title>Message Board</title>
   </head>
   <body>
     <header>
-      <h1>Message Board</h1>
+      <h1>Messages</h1>
     </header>
     <main>
-      <form id="message-form">
-        <textarea id="message-input" rows="4" cols="50"></textarea>
-        <button id="submit-button">Submit</button>
-      </form>
-      <div id="message-container">
-        <!-- messages will be appended here -->
+      <div class="container">
+        <div class="message-container">
+          <!-- Messages will be inserted here -->
+        </div>
+        <div class="input-container">
+          <form>
+            <textarea></textarea>
+            <button type="submit">Send</button>
+          </form>
+        </div>
       </div>
     </main>
   </body>
