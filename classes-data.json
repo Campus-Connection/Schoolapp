@@ -97,5 +97,72 @@
             "John Doe",
             "Bob Smith"
         ]
+    },
+    {
+        "class_id": "CS 23500",
+        "class_name": "Introduction To Organizational Computing",
+        "instructor": "Marta A. Crowe",
+        "description": "People and organizations, decision-making, information systems, telecommunications, desktop systems, integration tools, collaboration and groupware, multimedia, authoring multimedia documents, emerging technologies.",
+        "students": [
+            "Jane Doe",
+            "John Doe",
+            "Bob Smith"
+        ]
+    },
+    {
+        "class_id": "CS 24000",
+        "class_name": "Programming In C",
+        "instructor": "Jeffrey A. Turkstra",
+        "description": "The UNIX environment, C development cycle, data representation, operators, program structure, recursion, macros, C preprocessor, pointers and addresses, dynamic memory allocation, structures, unions, typedef, bit-fields, pointer/structure applications, UNIX file abstraction, file access, low-level I/O, concurrency.",
+        "students": [
+            "Jane Doe",
+            "John Doe",
+            "Bob Smith"
+        ]
+    },
+    {
+        "class_id": "CS 25000",
+        "class_name": "Computer Architecture",
+        "instructor": "George B. Adams, III",
+        "description": "Digital logic: transistors, gates, and combinatorial circuits; clocks; registers and register banks; arithmetic-logic units; data representation: big-endian and little-endian integers; ones and twos complement arithmetic; signed and unsigned values; Von-Neumann architecture and bottleneck; instruction sets; RISC and CISC designs; instruction pipelines and stalls; rearranging code; memory and address spaces; physical and virtual memory; interleaving; page tables; memory caches; bus architecture; polling and interrupts; DMA; device programming; assembly language; optimizations; parallelism; data pipelining.",
+        "students": [
+            "Jane Doe",
+            "John Doe",
+            "Bob Smith"
+        ]
+    },
+    {
+        "class_id": "CS 25100",
+        "class_name": "Data Structures And Algorithms",
+        "instructor": "Susanne E. Hambrusch",
+        "description": "Running time analysis of algorithms and their implementations, one-dimensional data structures, trees, heaps, additional sorting algorithms, binary search trees, hash tables, graphs, directed graphs, weighted graph algorithms, additional topics.",
+        "students": [
+            "Jane Doe",
+            "John Doe",
+            "Bob Smith"
+        ]
+    },
+    {
+        "class_id": "CS 25200",
+        "class_name": "Systems Programming",
+        "instructor": "Gustave Adolfo Junipero Rodriguez-rivera",
+        "description": "Low-level programming; review of addresses, pointers, memory layout, and data representation; text, data, and bss segments; debugging and hex dumps; concurrent execution with threads and processes; address spaces; file names; descriptors and file pointers; inheritance; system calls and library functions; standard I/O and string libraries; simplified socket programming; building tools to help programmers; make and make files; shell scripts and quoting; unix tools including sed, echo, test, and find; scripting languages such as awk; version control; object and executable files (.o and a.out); symbol tables; pointers to functions; hierarchical directories; and DNS hierarchy; programming embedded systems.",
+        "students": [
+            "Jane Doe",
+            "John Doe",
+            "Bob Smith"
+        ]
+    },
+    {
+        "class_id": "CS 25200",
+        "class_name": "Systems Programming",
+        "instructor": "Gustave Adolfo Junipero Rodriguez-rivera",
+        "description": "Low-level programming; review of addresses, pointers, memory layout, and data representation; text, data, and bss segments; debugging and hex dumps; concurrent execution with threads and processes; address spaces; file names; descriptors and file pointers; inheritance; system calls and library functions; standard I/O and string libraries; simplified socket programming; building tools to help programmers; make and make files; shell scripts and quoting; unix tools including sed, echo, test, and find; scripting languages such as awk; version control; object and executable files (.o and a.out); symbol tables; pointers to functions; hierarchical directories; and DNS hierarchy; programming embedded systems.",
+        "students": [
+            "Jane Doe",
+            "John Doe",
+            "Bob Smith"
+        ]
     }
+    
 ]
