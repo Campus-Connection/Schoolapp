@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f3f3f3;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #7AA2C5;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  main {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  form {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  textarea {
+    margin-bottom: 10px;
+  }
+  
+  button {
+    background-color: #7AA2C5;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #message-container {
+    width: 80%;
+    background-color: white;
+    border-radius: 5px;
+    padding: 20px;
+  }

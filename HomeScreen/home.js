@@ -36,3 +36,38 @@ fetch('\Users\Owner\Documents\GitHub\Schoolapp\classes-data.json')
     }
   })
   .catch(error => console.error(error));
+
+
+  //Listeners for main buttons
+  document.querySelector("#homeButton").addEventListener("click", function() {
+    window.location.href = "https://example.com/home";
+  });
+  
+  document.querySelector("#classesButton").addEventListener("click", function() {
+    window.location.href = "https://example.com/classes";
+  });
+  
+  document.querySelector("#discussionBoardButton").addEventListener("click", function() {
+    window.location.href = "https://example.com/discussion-board";
+  });
+  
+  document.querySelector("#documentLibraryButton").addEventListener("click", function() {
+    window.location.href = "https://example.com/document-library";
+  });
+  
+  document.querySelector("#calendarButton").addEventListener("click", function() {
+    window.location.href = "https://example.com/calendar";
+  });
+  
+  document.querySelector("#professorsButton").addEventListener("click", function() {
+    window.location.href = "https://example.com/professors";
+  });
+  
+  document.querySelector("#studyGroupsButton").addEventListener("click", function() {
+    window.location.href = "https://example.com/study-groups";
+  });
+  
+  document.querySelector("#messagesButton").addEventListener("click", function() {
+    window.location.href = "file:///C:/Users/Owner/Documents/GitHub/Schoolapp/Schoolapp/Messages/ClientSide/Messages.html";
+  });
+  //End of Listeners
