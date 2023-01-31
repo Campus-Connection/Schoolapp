@@ -9,6 +9,10 @@ body {
     padding: 15px;
     text-align: center;
   }
+  header img {
+    height: 100px;
+    margin-right: auto;
+  }
   
   .container {
     display: flex;
