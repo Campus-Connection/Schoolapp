@@ -40,7 +40,7 @@ fetch('\Users\Owner\Documents\GitHub\Schoolapp\classes-data.json')
 
   //Listeners for main buttons
   document.querySelector("#homeButton").addEventListener("click", function() {
-    window.location.href = "https://example.com/home";
+    window.location.href = "file:///C:/Users/Owner/Documents/GitHub/Schoolapp/Schoolapp/HomeScreen/home.html";
   });
   
   document.querySelector("#classesButton").addEventListener("click", function() {
@@ -56,7 +56,7 @@ fetch('\Users\Owner\Documents\GitHub\Schoolapp\classes-data.json')
   });
   
   document.querySelector("#calendarButton").addEventListener("click", function() {
-    window.location.href = "https://example.com/calendar";
+    window.location.href = "file:///C:/Users/Owner/Documents/GitHub/Schoolapp/Schoolapp/Calendar/calendar.Html";
   });
   
   document.querySelector("#professorsButton").addEventListener("click", function() {
